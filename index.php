@@ -1,3 +1,3 @@
 <?php
-    echo "tesing";
+    echo "new testing updated";
 ?>
